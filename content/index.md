@@ -1,5 +1,5 @@
 ---
-title: Do not spray into eyes
+title: Do not spray into eyes, I will spray you into my eyes
 description: That is the main page displaying Markdown located at content/index.md.
 navigation:
   title: test
@@ -9,7 +9,7 @@ seo:
   description: fghj
 ---
 
-# Do not spray into my eyes, I will spray you into my eyes
+# Do not spray into my eyes - test 3
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
