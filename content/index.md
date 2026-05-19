@@ -9,7 +9,7 @@ seo:
   description: fghj
 ---
 
-# Welcome to Nuxt Content Starter
+# Do not spray into my eyes
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
